@@ -10,3 +10,4 @@ linuxserver/heimdall
 linuxserver/jackett
 halcyonazure/lsky-pro-docker
 nyanmisaka/jellyfin
+emby/embyserver
